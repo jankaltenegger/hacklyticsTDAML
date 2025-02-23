@@ -1,0 +1,6 @@
+.devenv
+.direnv
+.envrc
+flake.nix
+flake.lock
+node_modules
